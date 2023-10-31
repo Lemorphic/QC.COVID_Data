@@ -20,7 +20,7 @@ La base de données quotidienne `QC.COVID_data_daily.csv` et hebdomadaire `QC.CO
 Ces bases de données sont composées des variables suivantes (les liens fournis renvoient aux sources primaires des données collectées et assemblées dans les deux bases de données) :
 
    - date/week : Jour ou semaine
-   - wave : Vagues de contamination officielle [définies par l'Institut national de santé publique du Québec (INSPQ)](https://www.inspq.qc.ca/covid-19/donnees/ligne-du-temps)
+   - wave : Vagues de contamination officielles [définies par l'Institut national de santé publique du Québec (INSPQ)](https://www.inspq.qc.ca/covid-19/donnees/ligne-du-temps)
    - SI : Indice de sévérité des mesures sanitaires (interdiction des rassemblements, masques obligatoires, fermeture des écoles, fermeture des restaurants etc.) et des mesures vaccinales (vaccination obligatoire, passeport vaccinal, etc.) [provenant de l'Institut de recherche sur les politiques publiques (IRPP)](https://centre.irpp.org/fr/data/politiques-provinciales-sur-la-pandemie-de-covid-19) et inspiré du [projet international Oxford Covid Government Response Tracker](https://www.bsg.ox.ac.uk/research/covid-19-government-response-tracker).
    - SPHM : Indice de sévérité des mesures sanitaires seules sans les mesures vaccinales [provenant de l'IRPP](https://centre.irpp.org/fr/data/politiques-provinciales-sur-la-pandemie-de-covid-19/)
    - SVAX : Indice de sévérité des mesures vaccinales [provenant de l'IRPP](https://centre.irpp.org/fr/data/politiques-provinciales-sur-la-pandemie-de-covid-19/)
