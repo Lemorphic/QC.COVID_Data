@@ -1,0 +1,17 @@
+Lemor, Antoine, Costa, Maria Alejandra, Beaulieu-Guay, Louis-Robert, & Montpetit, Éric. (2023). QC.COVID_Data Quebec COVID-19 Pandemic Management Database. Zenodo. http://doi.org/10.5281/zenodo.10059777
+
+How to Cite:
+To cite this database in your work, please use the following reference:
+
+Lemor, Antoine, Costa, Maria Alejandra, Beaulieu-Guay, Louis-Robert, & Montpetit, Éric. (2023). QC.COVID_Data Quebec COVID-19 Pandemic Management Database. Zenodo. Available at: http://doi.org/10.5281/zenodo.10059777
+
+BibTeX:
+@misc{lemor_costa_beaulieu-guay_montpetit_2023_qc_covid_mgmt,
+author = {Lemor, Antoine and Costa, Maria Alejandra and Beaulieu-Guay, Louis-Robert and Montpetit, Éric},
+title = {QC.COVID_Data Quebec COVID-19 Pandemic Management Database},
+year = 2023,
+publisher = {Zenodo},
+version = {v1.0.0},
+doi = {10.5281/zenodo.10059777},
+url = {http://doi.org/10.5281/zenodo.10059777}
+}
