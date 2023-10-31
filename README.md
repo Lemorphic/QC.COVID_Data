@@ -92,6 +92,7 @@ These databases are composed of the following variables (the provided links here
    - ADH1: Population adherence to three fundamental sanitary measures (hand washing, physical distancing in society, avoiding gatherings) [from the INSPQ](https://www.inspq.qc.ca/covid-19/sondages-attitudes-comportements-quebecois)
    - ADH2: Population adherence to two fundamental sanitary measures (hand washing, physical distancing in society) [from the INSPQ](https://www.inspq.qc.ca/covid-19/sondages-attitudes-comportements-quebecois)
    - PRJ100: Experts' projections of hospitalizations for the following week scaled to 100 [from the Institute for Excellence in Health and Social Services (INESSS)](https://www.inesss.qc.ca/covid-19/risques-dhospitalisation-et-projections-des-besoins-hospitaliers.html)
+   - IG: Monthly proportion of press articles containing the protest mobilization (against health measures) of a group of interests affected by the health measures (commerce, services, restaurants, cultural services) from a manual coding of [press articles from the database of the Observatory of Information Flow.](https://oci-ifo.org/en/home/).
    - CC100: Index (out of 100) of the number of confirmed COVID-19 cases, [data from the INSPQ](https://www.inspq.qc.ca/covid-19/donnees).
    - CD100: Index (out of 100) of the number of confirmed COVID-19 deaths, [data from the INSPQ](https://www.inspq.qc.ca/covid-19/donnees).
    - TH100: Index (out of 100) of the number of COVID-19 hospitalizations, [data from the INSPQ](https://www.inspq.qc.ca/covid-19/donnees).
