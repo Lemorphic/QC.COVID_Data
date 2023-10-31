@@ -44,13 +44,13 @@ Ces bases de données sont composées des variables suivantes (les liens fournis
 
 ## Membres du projet
 
-[Éric Montpetit, département de science politique, Université de Montréal](https://pol.umontreal.ca/repertoire-departement/professeurs/professeur/in/in14714/sg/%C3%89ric%20Montpetit/).
+[Éric Montpetit](https://pol.umontreal.ca/repertoire-departement/professeurs/professeur/in/in14714/sg/%C3%89ric%20Montpetit/), département de science politique, Université de Montréal.
 
-[Antoine Lemor, département de science politique, Université de Montréal](https://pol.umontreal.ca/repertoire-departement/charges/charge-de-cours/in/in35295/sg/Antoine%20Lemor/).
+[Antoine Lemor](https://pol.umontreal.ca/repertoire-departement/charges/charge-de-cours/in/in35295/sg/Antoine%20Lemor/), département de science politique, Université de Montréal.
 
-[Maria Alejandra Costa, département de science politique, Université de Montréal](https://www.linkedin.com/in/mar%C3%ADa-alejandra-costa-37065442/?locale=en_US).
+[Maria Alejandra Costa](https://www.linkedin.com/in/mar%C3%ADa-alejandra-costa-37065442/?locale=en_US), département de science politique, Université de Montréal.
 
-[Louis-Robert Beaulieu-Guay, département de science politique, Université de Montréal](https://scholar.google.com/citations?user=LvgfEn0AAAAJ&hl=fr).
+[Louis-Robert Beaulieu-Guay](https://scholar.google.com/citations?user=LvgfEn0AAAAJ&hl=fr), département de science politique, Université de Montréal.
 
 
 ## À venir
@@ -104,13 +104,13 @@ These databases are composed of the following variables (the provided links here
 
 ## Project Members
 
-[Éric Montpetit, Department of Political Science, University of Montreal](https://pol.umontreal.ca/repertoire-departement/professeurs/professeur/in/in14714/sg/%C3%89ric%20Montpetit/).
+[Éric Montpetit](https://pol.umontreal.ca/repertoire-departement/professeurs/professeur/in/in14714/sg/%C3%89ric%20Montpetit/), Department of Political Science, University of Montreal.
 
-[Antoine Lemor, Department of Political Science, University of Montreal](https://pol.umontreal.ca/repertoire-departement/charges/charge-de-cours/in/in35295/sg/Antoine%20Lemor/).
+[Antoine Lemor](https://pol.umontreal.ca/repertoire-departement/charges/charge-de-cours/in/in35295/sg/Antoine%20Lemor/), Department of Political Science, University of Montreal.
 
-[Maria Alejandra Costa, Department of Political Science, University of Montreal](https://www.linkedin.com/in/mar%C3%ADa-alejandra-costa-37065442/?locale=en_US).
+[Maria Alejandra Costa](https://www.linkedin.com/in/mar%C3%ADa-alejandra-costa-37065442/?locale=en_US), Department of Political Science, University of Montreal.
 
-[Louis-Robert Beaulieu-Guay, Department of Political Science, University of Montreal](https://scholar.google.com/citations?user=LvgfEn0AAAAJ&hl=fr).
+[Louis-Robert Beaulieu-Guay](https://scholar.google.com/citations?user=LvgfEn0AAAAJ&hl=fr), Department of Political Science, University of Montreal.
 
 
 ## Coming Soon
